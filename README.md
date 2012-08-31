@@ -2,14 +2,14 @@
 
 [![Build Status](https://secure.travis-ci.org/zakgrant/simple-calculator.png)](http://travis-ci.org/zakgrant/simple-calculator)
 
-Just a simple spike getting to know cake, node & coffee-script using BDD framework jasmine
+Just a simple spike getting to know cake, node & coffee-script using BDD framework mocha, with matcher framework chai
 
 ## How to build and test
 
-It requires node.js with coffee-script. (and jasmine-node if you want to test)
+It requires node.js with coffee-script. (and mocha with chai if you want to test)
 If you have npm, take following commands to install dependencies and build.
 
-* npm install -g coffee-script jasmine-node
+* npm install -g coffee-script mocha
 
 ### Building & Testing with ....
 
