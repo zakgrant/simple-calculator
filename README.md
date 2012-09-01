@@ -21,3 +21,10 @@ If you have npm, take following commands to install dependencies and build.
 The cake file also includes an action to watch for src or spec changes and then execute the test suite on detection of changes to the aforementioned directories.
 
 * cake watch
+
+## Growl Notification
+
+To get growl notification two items need to be installed;
+
+1. Growl 1.4
+2. GrowlNotify 1.3

@@ -11,6 +11,7 @@
     "devDependencies": {
         "mocha": "~>1.4.1",
         "chai": "1.2.0",
-        "nodewatch": "~>0.1.0"
+        "nodewatch": "~>0.1.0",
+        "growl" : "1.5.1"
     }
 }
